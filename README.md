@@ -1,2 +1,2 @@
 # Grafik
-Logos, Flyer, Sticker vom Freifunk Bodensee
+Logos, Flyer und Sticker vom Freifunk Bodensee
