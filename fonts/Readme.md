@@ -10,7 +10,7 @@ Von dieser Schrift-Familie verwenden wir die Schriften Lato-Bold.ttf und Lato-Re
 Alle Schriften zur Übhersicht:
 
 | Schrift name:     | Lizenz:                    | URL:                                      |
-| ----------------- |:--------------------------:| -----------------------------------------:|
+| ----------------- |:-------------------------- | :-----------------------------------------|
 | Lato-Bold.ttf     | SIL Open Font License 1.1. | http://www.latofonts.com/lato-free-fonts/ |
 | Lato-Regular.ttf  | SIL Open Font License 1.1. | http://www.latofonts.com/lato-free-fonts/ |
 
