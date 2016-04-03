@@ -1,5 +1,13 @@
 #! /usr/bin/perl
 
+#	Dies ist ein Perl-Script, dass für den Webserver gedacht ist.
+#	Sobald es etwas mehr hermacht, könnte man es als live-Map oder
+#	Echtzeitlogo oder vergleichbares in der Webseite einbinden.
+#
+#	Dieses Script generiert bisher noch ein statisches SVG in einer HTML  Webseite.
+#	Es wäre schön, wenn es sich mit der Zeit zu einem animierten SVG weiterentwickelt!
+
+
 use JSON;                       # Zum verwenden der nodes.json
 use LWP::Simple;                # Zum testen, wie die nodes.json aussieht, wird aber gerade nicht benötigt...
 use Data::Dumper;				# Ausgabe der json zum testen (produktiv nicht benoetigt)
