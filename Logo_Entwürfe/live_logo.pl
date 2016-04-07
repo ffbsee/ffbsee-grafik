@@ -14,6 +14,7 @@
 # Perl Module laden
 use JSON;                       # Zum verwenden der nodes.json | wenn nicht installiert: 'sudo cpan install JSON' eingeben!
 use Data::Dumper;               # Zum testen, wie die nodes.json aussieht, wird zwar nicht benötigt, ist aber extrem praktisch beim debuggen und entwickeln von neuen Features...
+use LWP::Simple;				# For getting the json
 use strict;                     # Good practice
 use warnings;                   # Good practice
 
@@ -37,7 +38,7 @@ p {color:blue;}
 # SVG - Ab hier gehts um die Vectorgrafik:
 #
 # Hier werden Headerdaten festgelegt:
-our $svg_viewbox = "0 0 1.6 1.6";
+our $svg_viewbox = "0 0 1.3 1.3";
 our $svg_width = "230.0mm";
 our $svg_height = "230.0mm";
 our $svg_id = "l3d-svg1";
@@ -97,8 +98,15 @@ our $svg_head;
 our $svg_meta;
 our $svg_ebene_01;
 our $svg_ebene_02;
-
-
+# ... und für die FFNodes:
+our @node_name;   # Global Array for Node-Names
+our $anzahl;      # How many nodes exist
+our $clients;     # How many Clients are connected...
+our $channelName = "ffbsee"; #Operate in this channel !1ELF
+our $secoundChannel = "see-base-talk"; #A 2. channel for testing...
+our $url = "http://vpn3.ffbsee.de/nodes.json"; #Link zur nodes.json
+our $path = "/var/www/modes.json"; #Pfad zur nodes.json
+our $ffnodes_json;
 
 sub animated_svg {
 $svg_animation .='
@@ -175,6 +183,47 @@ $svg_ebene_02 .= #Freifunk-Pfeile
        points="88,47 75,47 81,41 73,41 64,50 73,59 81,59 75,53 88,53 "
        style="fill:#ffcc33;fill-opacity:1" />
 ';
+$svg_ebene_02 .= '</g>'; #Ende der Ebene 2
+#
+#  Ebene 3: Freifunk Nodes:
+#
+our sub nodes{
+	my $name;
+	my $json_text = get( $url );   # Download the nodes.json
+#	open(DATEI, "/var/www/nodes.json") or die "Datei wurde nicht gefunden\n";
+#	my $daten;
+ #  	while(<DATEI>){
+	#     	$daten = $daten.$_;
+#   	}
+#	close (DATEI);
+#	print $daten;
+#	$json_text = $daten;
+		
+#	print $json_text;
+
+	my $json        = JSON->new->utf8; #force UTF8 Encoding
+    $ffnodes_json = $json->decode( $json_text ); #decode nodes.json
+	$anzahl = 0; #Resette Anzahl auf 0
+#	print Dumper $ffnodes_json;
+	my $json_list = $ffnodes_json->{"nodes"}->[$anzahl]->{"name"};
+	my $json_list_test = $ffnodes_json->{"nodes"}->[$anzahl]->{"id"};
+	while (defined $json_list_test){
+	        $json_list = $ffnodes_json->{"nodes"}->[$anzahl]->{"name"} ; # Suche nach "name" in der node.json
+		if ( not defined $json_list){ #Falls der $name nicht gesetzt wurde!
+			$json_list = $ffnodes_json->{"nodes"}->[$anzahl]->{"id"};
+		}
+		$anzahl = $anzahl + 1;
+		$json_list_test = $ffnodes_json->{"nodes"}->[$anzahl]->{"id"};
+		push(@node_name, "$json_list, "); #Füge die Node-Names dem Array zu.
+				
+	}
+	@node_name = sort @node_name;
+#	print @node_name;
+}
+
+
+
+
 
 #
 #  Ab hier wird die eigendliche Webseite mit den vorher generierten Variabeln erstellt:
@@ -196,11 +245,14 @@ if ( $animate_svg eq "true" ){
 }
 print $svg_ebene_01;
 print $svg_ebene_02;	
-			   
-
+# In Ebene #03 sind die Freifunk Nodes
+nodes();
+#Ende der SVG:
+print "\n</svg>\n";
 	
 	
 if ( $generate_html == "true" ){
+print "Yo, @node_name";
 	print  "</body>\n</html>";
 }
 
