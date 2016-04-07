@@ -107,6 +107,11 @@ our $secoundChannel = "see-base-talk"; #A 2. channel for testing...
 our $url = "http://vpn3.ffbsee.de/nodes.json"; #Link zur nodes.json
 our $path = "/var/www/modes.json"; #Pfad zur nodes.json
 our $ffnodes_json;
+our $svg_ebene_03;
+our $geo_nodes_percent_y = "1.442";
+our $geo_nodes_mv_y = "69.476";
+our $geo_nodes_mv_x = "-8.68";
+
 
 sub animated_svg {
 $svg_animation .='
@@ -187,7 +192,7 @@ $svg_ebene_02 .= '</g>'; #Ende der Ebene 2
 #
 #  Ebene 3: Freifunk Nodes:
 #
-our sub nodes{
+sub nodes{
 	my $name;
 	my $json_text = get( $url );   # Download the nodes.json
 #	open(DATEI, "/var/www/nodes.json") or die "Datei wurde nicht gefunden\n";
@@ -222,7 +227,57 @@ our sub nodes{
 }
 
 
+# Ab hier werden die Freifunk Nodes gesucht:
+sub svg_nodes{
+	if (!defined $anzahl) { nodes(); }
+	 my $geo_anzahl_nodes = 0;
+	while($geo_anzahl_nodes < $anzahl - 1){
+		my $geo_nodes_y = $ffnodes_json->{"nodes"}->[$geo_anzahl_nodes]->{"geo"}->[0];
+		my $geo_nodes_x = $ffnodes_json->{"nodes"}->[$geo_anzahl_nodes]->{"geo"}->[1];
+		if ((defined $geo_nodes_x) and (defined $geo_nodes_y)){
+		$svg_ebene_03 .= "\n     <circle\n       style=\"$svg_circle_style\"\n       id=\"svgCircle$geo_anzahl_nodes\"\n";
+#GEO Location:
+		$geo_nodes_y = $geo_nodes_y * $geo_nodes_percent_y;
+#		$geo_nodes_y = $geo_nodes_y + 6;
+		$geo_nodes_y = $geo_nodes_y * -1;
+		$geo_nodes_y = $geo_nodes_y + $geo_nodes_mv_y;
+		$geo_nodes_x = $geo_nodes_x * 1.0;
+		$geo_nodes_x = $geo_nodes_x + $geo_nodes_mv_x;
+		$svg_ebene_03 .= '       cx="'.$geo_nodes_x."\"\n";
+		$svg_ebene_03 .= "       cy=\"$geo_nodes_y\"\n";
+		$svg_ebene_03 .= "       r=\"$svg_circle_radius\" />";
+		}
+		$geo_anzahl_nodes = $geo_anzahl_nodes + 1;
+		
+		#Und hier der 2. kreis...
+		$svg_ebene_03 .= "\n     <circle\n       style=\"$svg_circle_style2\"\n       id=\"svgCircle2$geo_anzahl_nodes\"\n";
+#GEO Location:
+		$svg_ebene_03 .= '       cx="'.$geo_nodes_x."\"\n";
+		$svg_ebene_03 .= "       cy=\"$geo_nodes_y\"\n";
+		$svg_ebene_03 .= "       r=\"$svg_circle_radius2\" />";
+		#3
+		$svg_ebene_03 .= "\n     <circle\n       style=\"$svg_circle_style3\"\n       id=\"svgCircle3$geo_anzahl_nodes\"\n";
+#GEO Location:
+		$svg_ebene_03 .= '       cx="'.$geo_nodes_x."\"\n";
+		$svg_ebene_03 .= "       cy=\"$geo_nodes_y\"\n";
+		$svg_ebene_03 .= "       r=\"$svg_circle_radius3\" />";
+		#4
+		$svg_ebene_03 .= "\n     <circle\n       style=\"$svg_circle_style4\"\n       id=\"svgCircle4$geo_anzahl_nodes\"\n";
+#GEO Location:
+		$svg_ebene_03 .= '       cx="'.$geo_nodes_x."\"\n";
+		$svg_ebene_03 .= "       cy=\"$geo_nodes_y\"\n";
+		$svg_ebene_03 .= "       r=\"$svg_circle_radius4\" />";
+		
+	}
 
+#	$svg_ebene_03 .='
+#	   <circle
+#	      style="fill:#009ee0;fill-opacity:1;filter:url(#filter-circle01)"
+#	      id="path4137"
+#	      cx="500.0"
+#	      cy="200.0"
+#	      r="23.0" />';  
+}
 
 
 #
@@ -247,13 +302,15 @@ print $svg_ebene_01;
 print $svg_ebene_02;	
 # In Ebene #03 sind die Freifunk Nodes
 nodes();
+svg_nodes();
+print $svg_ebene_03;
 #Ende der SVG:
 print "\n</svg>\n";
 	
 	
 if ( $generate_html == "true" ){
-print "Yo, @node_name";
-	print  "</body>\n</html>";
+# print "Yo, @node_name";
+print  "</body>\n</html>";
 }
 
 
