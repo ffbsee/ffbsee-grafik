@@ -109,7 +109,7 @@ our $path = "/var/www/modes.json"; #Pfad zur nodes.json
 our $ffnodes_json;
 our $svg_ebene_03;
 our $geo_nodes_percent_y = "1.442";
-our $geo_nodes_mv_y = "69.476";
+our $geo_nodes_mv_y = "69.472";
 our $geo_nodes_mv_x = "-8.68";
 
 
