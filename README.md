@@ -1,7 +1,8 @@
 # Grafik
 Das Grafik-Repository der Bodensee Freifunk Community https://ffbsee.de
 
-Hier sollen die Logos, Flyer und Sticker des Freifunk Bodensee entstehen.
+Hier entstehen Logos, Flyer und Sticker der Bodensee Freifunk Community.
+
 
 ```
 SVG (and other formats based on xml/text) only!
