@@ -32,6 +32,8 @@ p {color:blue;}
 
 ";
 
+# Wo befindet sich das Script:
+our $script_location = "internet"; # "vpn" oder "internet". it VPN ist einer der Freifunk-VPN Server gemeint!
 
 #
 # SVG - Ab hier gehts um die Vectorgrafik:
@@ -210,17 +212,20 @@ $svg_ebene_02 .= '</g>'; #Ende der Ebene 2
 
 sub nodes{
     my $name;
-    my $json_text = get( $url );   # Download the nodes.json
-#	open(DATEI, "/var/www/nodes.json") or die "Datei wurde nicht gefunden\n";
-#	my $daten;
-#  	while(<DATEI>){
-#     	$daten = $daten.$_;
-#   	}
-#	close (DATEI);
+    if ($script_location eq "internet"){
+        my $json_text = get( $url );   # Download the nodes.json
+    }
+    if ($script_location eq "vpn"){
+        open(DATEI, "/var/www/nodes.json") or die "Datei wurde nicht gefunden\n";
+            my $daten;
+            while(<DATEI>){
+                $daten = $daten.$_;
+            }
+        close (DATEI);
 #	print $daten;
-#	$json_text = $daten;
+        $json_text = $daten;
 #	print $json_text;
-
+    }
     my $json        = JSON->new->utf8; #force UTF8 Encoding
     $ffnodes_json = $json->decode( $json_text ); #decode nodes.json
 	$anzahl = 0; #Resette Anzahl auf 0
