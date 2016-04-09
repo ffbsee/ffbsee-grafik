@@ -33,7 +33,7 @@ p {color:blue;}
 ";
 
 # Wo befindet sich das Script:
-our $script_location = "internet"; # "vpn" oder "internet". it VPN ist einer der Freifunk-VPN Server gemeint!
+our $script_location = "vpn"; # "vpn" oder "internet". it VPN ist einer der Freifunk-VPN Server gemeint!
 
 #
 # SVG - Ab hier gehts um die Vectorgrafik:
@@ -209,11 +209,11 @@ $svg_ebene_02 .= '</g>'; #Ende der Ebene 2
 
 #
 #  Ebene 3: Freifunk Nodes:
-
+our $json_text;
 sub nodes{
     my $name;
     if ($script_location eq "internet"){
-        my $json_text = get( $url );   # Download the nodes.json
+        $json_text = get( $url );   # Download the nodes.json
     }
     if ($script_location eq "vpn"){
         open(DATEI, "/var/www/nodes.json") or die "Datei wurde nicht gefunden\n";
