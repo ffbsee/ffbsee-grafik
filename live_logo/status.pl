@@ -52,6 +52,7 @@ our $svg_animation;
 our $svg_animation_node_dur = "1.5s";
 our $svg_animation_node_repeatCount = '1';
 our $svg_animation_node_fill = "freeze";
+our $svg_animation_node_startanimationtime = "0.17";
 # Elemente
 # FFNodes:
 our $svg_circle_style = 'fill:#ffffff;fill-opacity:0.01337';#	;filter:url(#filter-circle01)
@@ -265,7 +266,7 @@ sub svg_nodes{
             $svg_ebene_03 .= "       r=\"$svg_circle_radius\" />";
         }
         $geo_anzahl_nodes = $geo_anzahl_nodes + 1;
-        $geo_anzahl_nodes2 = $geo_anzahl_nodes2 + 0.3;
+        $geo_anzahl_nodes2 = $geo_anzahl_nodes2 + $svg_animation_node_startanimationtime;
 #Und hier der 2. kreis...
         $svg_ebene_03 .= "\n     <circle\n       style=\"$svg_circle_style2\"\n       id=\"svgCircle2$geo_anzahl_nodes\"\n";
 		
@@ -332,10 +333,39 @@ sub svg_nodes{
         if ($animate_svg_nodes eq "true"){
             $svg_ebene_03 .= '		
                 <text 
-                     id="text" font-size="0.15" x="0.95" y="1.12" fill="#5eba5e">
-                     '.$anzahl.'
+                     id="text" font-size="0.0" x="0.95" y="1.12" fill="#000000">
+                     '.$geo_anzahl_nodes.'
+
+                          <animate attributeName="font-size"
+
+            ';
+            if ($geo_anzahl_nodes eq $anzahl - 1){   
+                $svg_ebene_03 .= '
+                              values="0.15"
+                              begin="'.$geo_anzahl_nodes2.'s" 
+                              dur="'.$svg_animation_node_startanimationtime.'s"
+                              repeatCount="'.$svg_animation_node_repeatCount.'"
+                              fill="freeze"
+                          />
+                     
+                     
+                </text>
+                ';
+            }
+            else {
+                $svg_ebene_03 .= '
+                              values="0.15"
+                              begin="'.$geo_anzahl_nodes2.'s" 
+                              dur="'.$svg_animation_node_startanimationtime.'s"
+                              repeatCount="'.$svg_animation_node_repeatCount.'"
+                              fill="remove"
+                          />
+                     
+                     
                 </text>	
             ';
+
+            }
         }
     }
 
