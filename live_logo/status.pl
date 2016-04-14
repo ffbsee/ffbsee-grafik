@@ -373,13 +373,35 @@ sub svg_nodes{
                           <animate attributeName="font-size"
 
             ';
-            if ($geo_anzahl_nodes eq $anzahl - 1){   
+            if ($geo_anzahl_nodes >= $anzahl - 1){   
  
             my $geo_anzahl_nodes_animation_xtratimelocal = $geo_anzahl_nodes_animation_xtratime + $geo_anzahl_nodes2 - 0.5;
- 
+my $geo_anzahl_nodes_1plus = $geo_anzahl_nodes + 1;
                 $svg_ebene_03 .= '
                               values="0.15"
                               begin="'.$geo_anzahl_nodes_animation_xtratimelocal.'s" 
+                              dur="'.$svg_animation_node_startanimationtime.'s"
+                              repeatCount="'.$svg_animation_node_repeatCount.'"
+                              fill="remove"
+                          />
+                     
+                     
+                </text>
+
+
+ <text 
+                     id="text" font-size="0.0" x="0.95" y="1.12" fill="#000000">
+                     '.$geo_anzahl_nodes_1plus.'
+
+
+                          <animate attributeName="font-size"
+                ';
+
+my $geo_anzahl_nodes_1plus = $geo_anzahl_nodes + 1;
+my $geo_anzahl_nodes_animation_xtratimelocal2x = $geo_anzahl_nodes_animation_xtratimelocal + $svg_animation_node_startanimationtime;
+                $svg_ebene_03 .= '
+                              values="0.15"
+                              begin="'.$geo_anzahl_nodes_animation_xtratimelocal2x.'s" 
                               dur="'.$svg_animation_node_startanimationtime.'s"
                               repeatCount="'.$svg_animation_node_repeatCount.'"
                               fill="freeze"
@@ -387,7 +409,11 @@ sub svg_nodes{
                      
                      
                 </text>
-                ';
+
+
+ <text 
+';
+
             }
             elsif ($geo_anzahl_nodes >= $anzahl - $svg_animation_node_delaycountownforxnodes - 0) {
                 my $geo_anzahl_nodes_animation_xtratimelocal = $geo_anzahl_nodes_animation_xtratime + $geo_anzahl_nodes2 - 0.5;
@@ -438,6 +464,7 @@ print "Content-type: $content_type\n";
 if ( $generate_html == "true" ){
     print "\n<!DOCTYPE html>\n";
     print "<html lang=\"de\">\n<head>\n\t\n\t<title>$title</title>\n";
+    print '<meta http-equiv="refresh" content="130";>';
     print "<meta charset=\"UTF-8\">\n<meta name=\"description\" content=\"A ffbsee logo - written in perl\">\n<meta name=\"author\" content=\"$author\">\n\n";
     print "<style>$style</style>\n</head>\n\n<body>\n\n";
 }
