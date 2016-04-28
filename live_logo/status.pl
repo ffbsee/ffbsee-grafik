@@ -25,7 +25,7 @@ our $content_type = "text/html";
 our $generate_html = "true"; # Soll ein HTML generiert werden? Empfehlug: JA 
 our $author = "L3D";
 our $title = "bodensee.freifunk.net";
-our $html_head == 900;
+our $html_refresh == 900;
 our $style =  #CSS
 "
 body {background-color:transparent;}
