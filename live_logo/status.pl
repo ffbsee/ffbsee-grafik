@@ -25,6 +25,7 @@ our $content_type = "text/html";
 our $generate_html = "true"; # Soll ein HTML generiert werden? Empfehlug: JA 
 our $author = "L3D";
 our $title = "bodensee.freifunk.net";
+our $html_head == 900;
 our $style =  #CSS
 "
 body {background-color:transparent;}
@@ -464,8 +465,8 @@ print "Content-type: $content_type\n";
 if ( $generate_html == "true" ){
     print "\n<!DOCTYPE html>\n";
     print "<html lang=\"de\">\n<head>\n\t\n\t<title>$title</title>\n";
-    print '<meta http-equiv="refresh" content="130";>';
-    print "<meta charset=\"UTF-8\">\n<meta name=\"description\" content=\"A ffbsee logo - written in perl\">\n<meta name=\"author\" content=\"$author\">\n\n";
+    print '<meta http-equiv="refresh" content="'.$html_refresh.'"> ';
+    print "\n<meta charset=\"UTF-8\">\n<meta name=\"description\" content=\"A ffbsee logo - written in perl\">\n<meta name=\"author\" content=\"$author\">\n\n";
     print "<style>$style</style>\n</head>\n\n<body>\n\n";
 }
 
