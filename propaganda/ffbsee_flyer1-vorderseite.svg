@@ -15,8 +15,8 @@
    viewBox="0 0 379.13386 531.49606"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="ffbsee_flyer1.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ffbsee_flyer1-vorderseite.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -358,8 +358,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2615415"
-     inkscape:cx="107.99505"
-     inkscape:cy="100.502"
+     inkscape:cx="225.76034"
+     inkscape:cy="295.05956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -369,9 +369,9 @@
      objecttolerance="20"
      gridtolerance="22"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-height="1085"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="0,0"
@@ -520,7 +520,7 @@
            width="310.5827"
            id="rect6194" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.86679649px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara6196">Über Freifunk surfen Deine Gäste mit der IP-Adresse von Freifunk. Dein eigener Internetanschluss ist nach außen hin nicht sichtbar. Deine Gäste werden ganz legal durch einen verschlüsselten VPN Tunnel zu unserem Freifunk Gateway und von da erst in's Internet geleitet.</flowPara></flowRoot>    <g
+         id="flowPara6196">Über Freifunk surfen Deine Gäste mit der IP-Adresse von Freifunk. Dein eigener Internetanschluss ist nach außen hin nicht sichtbar. Deine Gäste werden ganz legal durch einen verschlüsselten VPN-Tunnel zu unserem Freifunk- Gateway und erst dort ins Internet geleitet.</flowPara></flowRoot>    <g
        id="g4636"
        transform="matrix(0.82336534,0,0,0.82336534,318.52552,213.10457)">
       <g
@@ -1885,7 +1885,7 @@
          sodipodi:nodetypes="ccscc" />
     </g>
     <g
-       transform="matrix(1.1183156,0,0,1.1183156,28.888222,434.29022)"
+       transform="matrix(1.1183156,0,0,1.1183156,28.888222,432.29022)"
        id="g6356">
       <path
          inkscape:connector-curvature="0"
@@ -1929,7 +1929,7 @@
          sodipodi:nodetypes="ccscc" />
     </g>
     <g
-       transform="matrix(2.3895783,0,0,2.3895783,-352.73267,-283.35393)"
+       transform="matrix(2.3895783,0,0,2.3895783,-352.73267,-287.35393)"
        id="g9322">
       <path
          style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1955,7 +1955,7 @@
     </g>
     <g
        id="g6832"
-       transform="matrix(1.70047,0,0,1.4971225,10.723245,230.62415)">
+       transform="matrix(1.70047,0,0,1.4971225,10.723245,226.62415)">
       <path
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.051;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 136.14114,531.34183 c 0,0 -1.21027,8.41428 -1.2679,9.65336 -0.0576,1.23909 -0.17289,2.24766 -0.17289,2.24766 l 3.37147,-0.48988 c 0,0 -1.38317,-1.38316 -1.84423,-3.68845 -0.46105,-2.30528 -0.0865,-7.72269 -0.0865,-7.72269 z"
@@ -1973,7 +1973,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.2736875,0,0,1.1687252,136.50186,405.54604)"
+       transform="matrix(1.2736875,0,0,1.1687252,136.50186,403.54604)"
        id="g6840">
       <path
          inkscape:connector-curvature="0"
