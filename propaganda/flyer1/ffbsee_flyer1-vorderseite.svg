@@ -485,7 +485,7 @@
          y="759.22009"
          x="47.337238"
          id="tspan6146"
-         sodipodi:role="line">Freifunk-Router Betreiber sind sicher!</tspan></text>
+         sodipodi:role="line">Freifunk-Router-Betreiber sind sicher!</tspan></text>
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.18532658px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6190"
@@ -1135,7 +1135,7 @@
            y="829.34363"
            x="-134.65378"
            id="tspan4585"
-           sodipodi:role="line">VPN - Verbindung</tspan></text>
+           sodipodi:role="line">VPN-Verbindung</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
          sodipodi:linespacing="125%"
@@ -1161,7 +1161,7 @@
            y="852.86676"
            x="-25.340338"
            id="tspan4593"
-           sodipodi:role="line">Freifunk</tspan><tspan
+           sodipodi:role="line">Freifunk-</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            id="tspan4595"
            y="864.39771"
@@ -1179,7 +1179,7 @@
            y="892.99451"
            x="-194.61475"
            id="tspan4599"
-           sodipodi:role="line">WLAN Gäste</tspan></text>
+           sodipodi:role="line">WLAN-Gäste</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
          sodipodi:linespacing="125%"
@@ -1192,7 +1192,7 @@
            y="887.9209"
            x="-291.01355"
            id="tspan4603"
-           sodipodi:role="line">Freifunk</tspan><tspan
+           sodipodi:role="line">Freifunk-</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            id="tspan4605"
            y="899.45184"
@@ -1383,7 +1383,7 @@
          id="tspan6124"
          x="166.75482"
          y="608.03491"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Freies Netz - überall und für alle!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Freies Netz. Überall und für alle!</tspan></text>
     <path
        style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11675666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 219.89133,1012.3849 c 0,0 -16.35535,-14.65946 -19.75051,-16.97223 -3.39516,-2.31278 -9.20984,-4.62556 -12.21614,-7.3297 -3.00628,-2.70417 -3.40251,-3.45137 -4.32762,-3.45137 -0.92511,0 -1.49142,0.46256 -1.59563,0.85394 -0.10421,0.3914 -1.25017,-0.7472 -1.25017,-0.7472 0,0 -0.85096,0.46255 -1.38422,0.53372 -0.53326,0.0711 -1.56902,-0.53372 -2.1374,-0.3914 -0.56838,0.14233 -1.63259,0.64047 -1.63259,0.64047 0,0 -0.14577,-0.53373 -1.14066,-0.32024 -0.9949,0.21348 -5.18473,1.56557 -5.78478,2.31278 -0.60006,0.7472 -3.96692,2.81087 -5.70649,3.41583 -1.73956,0.60486 -3.87466,0.56927 -5.92848,2.09929 -2.05382,1.52992 -9.93305,4.58995 -13.10246,9.67801 -3.16942,5.0881 6.68739,16.225 6.68739,16.225 l 72.32021,2.9889 -2.90536,-9.1088 z"

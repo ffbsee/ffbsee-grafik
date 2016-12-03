@@ -1421,7 +1421,7 @@
          x="43.013123"
          id="tspan6146-3"
          sodipodi:role="line"
-         style="font-size:17.5px;stroke:#de2c68;stroke-opacity:1;stroke-width:0.70866142;stroke-miterlimit:4;stroke-dasharray:none">Freifunk-Router Betreiber sind sicher!</tspan></text>
+         style="font-size:17.5px;stroke:#de2c68;stroke-opacity:1;stroke-width:0.70866142;stroke-miterlimit:4;stroke-dasharray:none">Freifunk-Router-Betreiber sind sicher!</tspan></text>
     <g
        id="g4636"
        transform="matrix(0.82336534,0,0,0.82336534,315.65542,17.794518)">
@@ -2058,7 +2058,7 @@
            y="829.34363"
            x="-134.65378"
            id="tspan4585"
-           sodipodi:role="line">VPN - Verbindung</tspan></text>
+           sodipodi:role="line">VPN-Verbindung</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
          sodipodi:linespacing="125%"
@@ -2084,7 +2084,7 @@
            y="852.86676"
            x="-25.340338"
            id="tspan4593"
-           sodipodi:role="line">Freifunk</tspan><tspan
+           sodipodi:role="line">Freifunk-</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            id="tspan4595"
            y="864.39771"
@@ -2102,7 +2102,7 @@
            y="892.99451"
            x="-194.61475"
            id="tspan4599"
-           sodipodi:role="line">WLAN Gäste</tspan></text>
+           sodipodi:role="line">WLAN-Gäste</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
          sodipodi:linespacing="125%"
@@ -2115,7 +2115,7 @@
            y="887.9209"
            x="-291.01355"
            id="tspan4603"
-           sodipodi:role="line">Freifunk</tspan><tspan
+           sodipodi:role="line">Freifunk-</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            id="tspan4605"
            y="899.45184"
