@@ -72,10 +72,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-30.613077"
-     inkscape:cy="226.4551"
+     inkscape:cx="-2.7222049"
+     inkscape:cy="340.79363"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5879"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1651,13 +1651,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.01621532px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="44.906219"
+       x="36.906219"
        y="632.02814"
        id="text6126"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6128"
-         x="44.906219"
+         x="36.906219"
          y="632.02814"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#de2c68;stroke-opacity:1">Alle können mitmachen!</tspan></text>
     <flowRoot
@@ -1676,25 +1676,20 @@
          id="flowPara4774">Freifunk ist ein dezentrales, unabhängiges Bürgernetz mit Zugang zum Internet. Freifunk bedeutet offene, uneingeschränkte und freie digitale Kommunikation. Alle können sich kostenlos über WLAN verbinden, ohne Passwort, ohne Registrierung. Alle dürfen Freifunk nutzen, mitmachen und erweitern. Freifunk ist eine Geste der Gastfreundschaft.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:33.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="36.336693"
-       y="845.05804"
+       x="32.336693"
+       y="855.05804"
        id="text4182"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="36.336693"
-         y="845.05804"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.00000191px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1"
-         id="tspan5805">Freies Internet.</tspan><tspan
-         sodipodi:role="line"
-         x="36.336693"
-         y="886.41351"
+         x="32.336693"
+         y="855.05804"
          id="tspan4186"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Ohne Risiken.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25000191px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Freies Internet</tspan><tspan
          sodipodi:role="line"
-         x="36.336693"
-         y="953.01898"
+         x="32.336693"
+         y="921.10883"
          id="tspan4188"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Für alle!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.50000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Für alle!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
