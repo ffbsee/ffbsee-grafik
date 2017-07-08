@@ -17,8 +17,8 @@
    inkscape:version="0.92.1 r"
    sodipodi:docname="FreifunkCamp.svg"
    inkscape:export-filename="../../Bilder/FreifunkCamp.svg.png"
-   inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800">
+   inkscape:export-xdpi="230"
+   inkscape:export-ydpi="230">
   <defs
      id="defs4941" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2854776"
-     inkscape:cx="454.84331"
+     inkscape:zoom="0.51529008"
+     inkscape:cx="388.28919"
      inkscape:cy="378.69111"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
