@@ -28,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58423026"
-     inkscape:cx="222.25876"
+     inkscape:zoom="0.4683832"
+     inkscape:cx="-338.58579"
      inkscape:cy="378.69111"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +90,10 @@
        height="279.00967"
        width="394.53293"
        id="rect4177"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.03465098;stroke-miterlimit:3.5999999;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.03465098;stroke-miterlimit:3.5999999;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="../../Bilder/FFCamp_Black.png"
+       inkscape:export-xdpi="230"
+       inkscape:export-ydpi="230" />
     <g
        id="g4646">
       <rect
