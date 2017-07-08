@@ -14,7 +14,7 @@
    viewBox="0 0 282.22223 199.5851"
    id="svg_ffbsee"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="Logo_FFBSee.svg"
    inkscape:export-filename="W:\git\Grafik\Logo_FFBSee.png"
    inkscape:export-xdpi="800"
@@ -28,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="128.98413"
+     inkscape:zoom="0.56689453"
+     inkscape:cx="12.826158"
      inkscape:cy="232.76408"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -40,27 +40,31 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="0,0"
        orientation="1,0"
-       id="guide5871" />
+       id="guide5871"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="282.42395,199.58545"
        orientation="0,1"
-       id="guide5877" />
+       id="guide5877"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="282.22223,-0.0011024306"
        orientation="0,1"
-       id="guide5990" />
+       id="guide5990"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="282.22223,-0.0011024306"
        orientation="1,0"
-       id="guide4175" />
+       id="guide4175"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4944">
@@ -82,7 +86,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5900"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(-681.15775,-187.48634)"><flowRegion
          id="flowRegion5902"><rect
            id="rect5904"
@@ -91,7 +95,7 @@
            x="-4.5352678"
            y="1220.6235" /></flowRegion><flowPara
          id="flowPara5906"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato" /></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato"> </flowPara></flowRoot>    <rect
        y="997.89764"
        x="-741.44775"
        height="279.00967"
