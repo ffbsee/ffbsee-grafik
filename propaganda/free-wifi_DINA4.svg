@@ -28,7 +28,7 @@
      id="namedview48"
      showgrid="false"
      inkscape:zoom="0.44851478"
-     inkscape:cx="142.20687"
+     inkscape:cx="-371.71153"
      inkscape:cy="542.0048"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
@@ -68,7 +68,7 @@
          id="circle3515" />
     </g>
     <flowRoot
-       transform="matrix(2.3222961,0,0,2.3222961,-512.37749,-1349.6879)"
+       transform="matrix(2.3222961,0,0,2.3222961,-507.45917,-1309.6217)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99983215px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3527"
        xml:space="preserve"><flowRegion
@@ -80,10 +80,12 @@
            width="677.14288"
            id="rect3531" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99983215px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="flowPara3535">offenes WLAN</flowPara><flowPara
+         id="flowPara3535">freies WLAN</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99983215px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowPara3376" /><flowPara
          id="flowPara4265"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99983215px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">free WIFI</flowPara></flowRoot>    <g
-       transform="matrix(1.157407,0,0,1.157407,178.4097,567.53408)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99983215px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRoot>    <g
+       transform="matrix(1.4169731,0,0,1.4169731,45.232978,549.59808)"
        id="g4207">
       <path
          d="m 43.03896,80.613841 q 0.835328,1.20901 1.809857,1.70685 0.994409,0.49782 2.088259,0.49782 1.13365,0 2.028618,-0.47412 0.914848,-0.49784 1.551294,-1.51721 0.636446,-1.04307 0.974529,-2.63139 0.338083,-1.61204 0.338083,-3.84043 0,-4.006365 -1.11373,-5.784347 -1.11373,-1.801685 -3.202029,-1.801685 -1.412053,0 -2.466142,0.782318 -1.05409,0.758595 -2.008739,2.15727 l 0,10.904924 z m 0,-15.02982 q 1.233092,-1.540912 2.724705,-2.441744 1.511534,-0.924555 3.440671,-0.924555 1.770096,0 3.182149,0.829723 1.431973,0.829723 2.426382,2.394339 1.01429,1.540912 1.551294,3.745607 0.536965,2.204675 0.536965,4.95462 0,2.96329 -0.616525,5.38133 -0.616526,2.41804 -1.770057,4.1486 -1.13365,1.70687 -2.744585,2.65511 -1.610973,0.94826 -3.579912,0.94826 -0.954648,0 -1.730296,-0.23707 -0.775646,-0.21335 -1.431932,-0.61636 -0.656327,-0.40301 -1.213211,-0.97196 -0.536965,-0.59265 -1.03417,-1.30384 l -0.218801,1.63572 q -0.119321,0.61638 -0.417644,0.87715 -0.278443,0.26077 -0.775648,0.26077 l -3.241789,0 0,-35.227613 4.912404,0 0,13.891913 z"
@@ -244,17 +246,6 @@
            id="polygon5867" />
       </g>
     </g>
-    <text
-       id="text4298"
-       y="668.25677"
-       x="79.726936"
-       style="font-style:normal;font-weight:normal;font-size:56.35066223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.35126495px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="668.25677"
-         x="79.726936"
-         id="tspan4300">SSID:</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:23.11341476;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4184"
@@ -264,5 +255,19 @@
        y="26.41168"
        rx="86.528015"
        ry="88.288216" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3378"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(4,-4)"><flowRegion
+         id="flowRegion3380"><rect
+           id="rect3382"
+           width="706.77716"
+           height="86.953735"
+           x="17.836655"
+           y="539.55859"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           ry="4.4591618" /></flowRegion><flowPara
+         id="flowPara3384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">von</flowPara></flowRoot>  </g>
 </svg>
