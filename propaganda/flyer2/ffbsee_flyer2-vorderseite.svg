@@ -15,8 +15,11 @@
    viewBox="0 0 379.63054 533.05755"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="ffbsee_flyer2-vorderseite.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="ffbsee_flyer2-vorderseite.svg"
+   inkscape:export-filename="/home/mhellebrand/temp/flyer_neu-vorne.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4">
     <linearGradient
@@ -72,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-2.7222049"
-     inkscape:cy="340.79363"
+     inkscape:cx="121.51"
+     inkscape:cy="284.22509"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +86,7 @@
      objecttolerance="20"
      gridtolerance="22"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -96,51 +99,61 @@
        orientation="0,1"
        id="guide4139"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="379.07253,0.78143758"
        orientation="-531.49606,0"
-       id="guide4141" />
+       id="guide4141"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="379.07253,532.2775"
        orientation="0,-379.13386"
-       id="guide4143" />
+       id="guide4143"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-0.061345909,532.2775"
        orientation="1,0"
        id="guide4145"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="93.738402,327.20455"
        orientation="0,1"
        id="guide4181"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-25.508759,500.38773"
        orientation="0,1"
        id="guide4185"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-214.64493,388.68249"
        orientation="72.215637,0"
-       id="guide4189" />
+       id="guide4189"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-121.10849,43.301122"
        orientation="0,1"
        id="guide4195"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="225.25001,397"
        orientation="0,1"
-       id="guide5858" />
+       id="guide5858"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="97.823808,337.33413"
        orientation="0,1"
-       id="guide5869" />
+       id="guide5869"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -998,16 +1011,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.64541054px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="165.10837"
        y="593.32782"
-       id="text6122"
-       sodipodi:linespacing="125%"><tspan
+       id="text6122"><tspan
          sodipodi:role="line"
          id="tspan6124"
          x="165.10837"
          y="593.32782"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Freies Netz. Überall und für alle!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.64541054px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Freies Netz. Überall und für alle!</tspan></text>
     <g
        id="g3561"
        transform="translate(2,-7.5)">
@@ -1650,11 +1662,10 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.01621532px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="36.906219"
        y="632.02814"
-       id="text6126"
-       sodipodi:linespacing="125%"><tspan
+       id="text6126"><tspan
          sodipodi:role="line"
          id="tspan6128"
          x="36.906219"
@@ -1663,23 +1674,22 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6130"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.43427849px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1.0998355,67.339538)"><flowRegion
          id="flowRegion6132"><rect
            id="rect6134"
-           width="293.89609"
-           height="86.307739"
+           width="298.5365"
+           height="104.86929"
            x="41.618275"
            y="656.04987"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.43427849px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.19085312px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:justify;writing-mode:lr-tb;text-anchor:start"
          id="flowPara4774">Freifunk ist ein dezentrales, unabhängiges Bürgernetz mit Zugang zum Internet. Freifunk bedeutet offene, uneingeschränkte und freie digitale Kommunikation. Alle können sich kostenlos über WLAN verbinden, ohne Passwort, ohne Registrierung. Alle dürfen Freifunk nutzen, mitmachen und erweitern. Freifunk ist eine Geste der Gastfreundschaft.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:33.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="32.336693"
        y="855.05804"
-       id="text4182"
-       sodipodi:linespacing="125%"><tspan
+       id="text4182"><tspan
          sodipodi:role="line"
          x="32.336693"
          y="855.05804"
@@ -1687,37 +1697,35 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25000191px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Freies Internet</tspan><tspan
          sodipodi:role="line"
          x="32.336693"
-         y="921.10883"
+         y="918.53302"
          id="tspan4188"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.50000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:#de2c68;stroke-opacity:1">Für alle!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="58.155846"
        y="652.78058"
-       id="text4994"
-       sodipodi:linespacing="125%"><tspan
+       id="text4994"><tspan
          sodipodi:role="line"
          id="tspan4996"
          x="58.155846"
          y="652.78058"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="168.52689"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="183.52689"
        y="656.65656"
-       id="text4998"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998"><tspan
          sodipodi:role="line"
          id="tspan5000"
-         x="168.52689"
+         x="183.52689"
          y="656.65656"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Schuhgeschäft</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Frisör</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4492"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,520.86614)"><flowRegion
          id="flowRegion4494"><rect
            id="rect4496"
@@ -1725,7 +1733,8 @@
            height="189.25143"
            x="-29.183634"
            y="256.46243" /></flowRegion><flowPara
-         id="flowPara4498" /></flowRoot>    <g
+         id="flowPara4498"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <g
        id="g5697"
        transform="matrix(0.91585213,0,0,0.96642816,24.791349,32.336304)">
       <rect
@@ -1854,63 +1863,58 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="116.26768"
        y="656.34082"
-       id="text5717"
-       sodipodi:linespacing="125%"><tspan
+       id="text5717"><tspan
          sodipodi:role="line"
          id="tspan5719"
          x="116.26768"
          y="656.34082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="122.0481"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="101.4231"
        y="656.51453"
-       id="text4998-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998-5"><tspan
          sodipodi:role="line"
          id="tspan5000-3"
-         x="122.0481"
+         x="101.4231"
          y="656.51453"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Frisör</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Ferienwohnung</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="56.737858"
        y="655.99738"
-       id="text4998-5-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998-5-5"><tspan
          sodipodi:role="line"
          id="tspan5000-3-6"
          x="56.737858"
          y="655.99738"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Bäcker</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Bäcker</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="240.0481"
        y="656.01453"
-       id="text4998-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998-1"><tspan
          sodipodi:role="line"
          id="tspan5000-2"
          x="240.0481"
          y="656.01453"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Privathaus</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Privathaus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="318.0481"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="301.1731"
        y="656.26453"
-       id="text4998-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998-7"><tspan
          sodipodi:role="line"
          id="tspan5000-0"
-         x="318.0481"
+         x="301.1731"
          y="656.26453"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Café</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Café / Imbiss</tspan></text>
   </g>
 </svg>

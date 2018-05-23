@@ -15,7 +15,7 @@
    viewBox="0 0 379.13386 531.49606"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="ffbsee_flyer2-rueckseite.svg">
   <defs
      id="defs4">
@@ -585,8 +585,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1835334"
-     inkscape:cx="140.75526"
-     inkscape:cy="181.29342"
+     inkscape:cx="73.891158"
+     inkscape:cy="126.33662"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -596,7 +596,7 @@
      objecttolerance="20"
      gridtolerance="22"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -606,73 +606,87 @@
        orientation="0,1"
        id="guide4139"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="379.13387,0"
        orientation="-531.49606,0"
-       id="guide4141" />
+       id="guide4141"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="379.13387,531.49609"
        orientation="0,-379.13386"
-       id="guide4143" />
+       id="guide4143"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,531.49609"
        orientation="1,0"
        id="guide4145"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="189.56693,150.00001"
        orientation="1,0"
        id="guide4179"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="109.35509,265.74805"
        orientation="0,1"
        id="guide4181"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="336.61418,430.54271"
        orientation="1,0"
        id="guide4183"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-25.447412,499.60632"
        orientation="0,1"
        id="guide4185"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-214.58358,387.90107"
        orientation="72.215637,0"
-       id="guide4189" />
+       id="guide4189"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="42.519686,414.03628"
        orientation="1,0"
        id="guide4193"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-121.04715,42.519687"
        orientation="0,1"
        id="guide4195"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="93.58861,-71.891585"
        orientation="0,21.049339"
-       id="guide9296" />
+       id="guide9296"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="114.63795,-71.891585"
        orientation="-17.16333,0"
-       id="guide9298" />
+       id="guide9298"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="114.63795,102.00835"
        orientation="0,-21.049339"
-       id="guide9300" />
+       id="guide9300"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -692,19 +706,18 @@
      id="layer1"
      transform="translate(0,-520.86614)">
     <text
-       sodipodi:linespacing="125%"
        id="text6144"
        y="791.62335"
        x="41.502083"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.1924696px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="791.62335"
          x="41.502083"
          id="tspan6146"
          sodipodi:role="line"
-         style="font-size:12.5px">Bleibt mein eigenes Netz geschützt?</tspan></text>
+         style="font-size:12.5px;line-height:1.25">Bleibt mein eigenes Netz geschützt?</tspan></text>
     <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21718597px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6190"
        xml:space="preserve"><flowRegion
          id="flowRegion6192"><rect
@@ -718,29 +731,29 @@
          id="flowPara6196">Ja! Freifunk-Gäste bekommen keinen Zugriff auf Dein eigenes Netz, sondern werden direkt in's Freifunknetz weitergeleitet.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7138"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion7140"><rect
            id="rect7142"
            width="304.53653"
            height="48.114666"
            x="131.94499"
            y="2.772839e-07" /></flowRegion><flowPara
-         id="flowPara7144" /></flowRoot>    <text
+         id="flowPara7144"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.1924696px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.502083"
        y="837.63965"
-       id="text7146"
-       sodipodi:linespacing="125%"><tspan
+       id="text7146"><tspan
          sodipodi:role="line"
          id="tspan7148"
          x="41.502083"
          y="837.63965"
-         style="font-size:12.5px">Kann ich meinen eigenen Anschluss weiter nutzen?</tspan></text>
+         style="font-size:12.5px;line-height:1.25">Kann ich meinen eigenen Anschluss weiter nutzen?</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7150"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21718597px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion7152"><rect
            id="rect7154"
            width="309.40967"
@@ -750,19 +763,18 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21718597px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara7156"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.09546947px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">Ja! Der Freifunk-Router benutzt nur einen einstellbaren Teil Deiner Bandbreite. Du selbst bestimmst, wie viel Du zur Verfügung stellst.</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
        id="text7158"
        y="885.63965"
        x="41.502083"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.1924696px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="885.63965"
          x="41.502083"
          id="tspan7160"
          sodipodi:role="line"
-         style="font-size:12.5px">Was kostet es mitzumachen?</tspan></text>
+         style="font-size:12.5px;line-height:1.25">Was kostet es mitzumachen?</tspan></text>
     <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.21718597px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7162"
        xml:space="preserve"
        transform="translate(2,42)"><flowRegion
@@ -774,24 +786,23 @@
            width="309.40967"
            id="rect7166" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.09546947px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara7174">Kompatible Router gibt es ab 15 €. Für bessere Leistung kann man auch etwas mehr investieren. Einen guten Outdoor-Router gibt es</flowPara><flowPara
+         id="flowPara7174">Kompatible Router gibt es ab 20€. Für bessere Leistung sollte man auch etwas mehr investieren. Einen guten Outdoor-Router gibt es</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.09546947px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara7178">ab 50 €. Der Strom kostet, je nach Router, ca. 4–10 € pro Jahr.</flowPara></flowRoot>    <text
+         id="flowPara7178">ab 45€. Der Strom kostet, je nach Router, ca. 4–10€ pro Jahr.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.79583168px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="41.493385"
        y="954.38794"
-       id="text7180"
-       sodipodi:linespacing="125%"><tspan
+       id="text7180"><tspan
          sodipodi:role="line"
          id="tspan7182"
          x="41.493385"
          y="954.38794"
-         style="font-size:13.75px">Kontakt:</tspan></text>
+         style="font-size:13.75px;line-height:1.25">Kontakt:</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7184"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.84937954px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(-15.028492,2.3808199)"><flowRegion
          id="flowRegion7186"><rect
            id="rect7188"
@@ -801,8 +812,10 @@
            y="951.80841"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.84937954px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara7192"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">E-Mail:         kommunikation@ffbsee.de</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.84937954px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">E-Mail:         kommunikation@ffbsee.de</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara1235">Tel.:              07551 9719523 (Deutschland)</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7196"
        xml:space="preserve"
        transform="translate(0,2)"><flowRegion
@@ -814,7 +827,7 @@
            width="409.59842"
            id="rect7200" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.62499905px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara7202">Webseite:    ffbsee.de</flowPara></flowRoot>    <path
+         id="flowPara7202">Webseite:    www.freifunk-bodensee.net</flowPara></flowRoot>    <path
        style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11675666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 219.89133,1012.3849 c 0,0 -16.35535,-14.65946 -19.75051,-16.97223 -3.39516,-2.31278 -9.20984,-4.62556 -12.21614,-7.3297 -3.00628,-2.70417 -3.40251,-3.45137 -4.32762,-3.45137 -0.92511,0 -1.49142,0.46256 -1.59563,0.85394 -0.10421,0.3914 -1.25017,-0.7472 -1.25017,-0.7472 0,0 -0.85096,0.46255 -1.38422,0.53372 -0.53326,0.0711 -1.56902,-0.53372 -2.1374,-0.3914 -0.56838,0.14233 -1.63259,0.64047 -1.63259,0.64047 0,0 -0.14577,-0.53373 -1.14066,-0.32024 -0.9949,0.21348 -5.18473,1.56557 -5.78478,2.31278 -0.60006,0.7472 -3.96692,2.81087 -5.70649,3.41583 -1.73956,0.60486 -3.87466,0.56927 -5.92848,2.09929 -2.05382,1.52992 -9.93305,4.58995 -13.10246,9.67801 -3.16942,5.0881 6.68739,16.225 6.68739,16.225 l 72.32021,2.9889 -2.90536,-9.1088 z"
        id="path5675-6"
@@ -1398,7 +1411,7 @@
          style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.43427849px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6190-8"
        xml:space="preserve"
        transform="translate(45.236596,582.79648)"><flowRegion
@@ -1409,19 +1422,18 @@
            height="90.231354"
            width="292.89163"
            id="rect6194-3" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.875px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="flowPara6196-1">Über Freifunk surfen Deine Gäste mit der IP-Adresse von Freifunk. Dein eigener Internetanschluss ist nach außen hin nicht sichtbar. Deine Gäste werden ganz legal durch einen verschlüsselten VPN-Tunnel zu unserem Freifunk- Gateway und erst dort ins Internet geleitet.</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.875px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara6196-1">Über Freifunk surfen Deine Gäste mit der IP-Adresse von Freifunk. Dein eigener Internetanschluss wird nur zum Durchleiten (Tunneln) genutzt.  Erst bei unserem Freifunk-Gateway-Server wird der Internetverkehr Deiner Gäste mit Freifunk-IP Adresse in das Internet ausgeleitet.</flowPara></flowRoot>    <text
        id="text6144-5"
        y="575.70215"
        x="43.013123"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.01621532px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:0.70866142;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="575.70215"
          x="43.013123"
          id="tspan6146-3"
          sodipodi:role="line"
-         style="font-size:17.5px;stroke:#de2c68;stroke-opacity:1;stroke-width:0.70866142;stroke-miterlimit:4;stroke-dasharray:none">Freifunk-Router-Betreiber sind sicher!</tspan></text>
+         style="font-size:17.5px;line-height:1.25;stroke:#de2c68;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Freifunk-Router-Betreiber sind sicher!</tspan></text>
     <g
        id="g4636"
        transform="matrix(0.82336534,0,0,0.82336534,315.65542,17.794518)">
@@ -1589,11 +1601,10 @@
          sodipodi:nodetypes="ccccc" />
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4607"
          y="841.79706"
          x="-247.65715"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.64821625px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="841.79706"
@@ -1607,11 +1618,10 @@
            sodipodi:role="line">Internetanschluss</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4613"
          y="784.14227"
          x="-292.85849"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.53095531px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="784.14227"
@@ -2048,11 +2058,10 @@
          y="829.74078" />
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4583"
          y="829.34363"
          x="-134.65378"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            y="829.34363"
@@ -2061,11 +2070,10 @@
            sodipodi:role="line">VPN-Verbindung</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4587"
          y="802.13055"
          x="-121.27789"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.14333725px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="802.13055"
@@ -2074,11 +2082,10 @@
            sodipodi:role="line">Internet</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4591"
          y="852.86676"
          x="-25.340338"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            y="852.86676"
@@ -2092,11 +2099,10 @@
            sodipodi:role="line">Gateway</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4597"
          y="892.99451"
          x="-194.61475"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.53095531px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="892.99451"
@@ -2105,11 +2111,10 @@
            sodipodi:role="line">WLAN-Gäste</tspan></text>
       <text
          transform="scale(0.99177423,1.008294)"
-         sodipodi:linespacing="125%"
          id="text4601"
          y="887.9209"
          x="-291.01355"
-         style="font-style:normal;font-weight:normal;font-size:9.22476387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22476387px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
            y="887.9209"
