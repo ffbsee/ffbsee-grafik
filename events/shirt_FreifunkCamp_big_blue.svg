@@ -15,7 +15,7 @@
    id="svg_ffbsee"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="shirt_FreifunkCamp_big.svg"
+   sodipodi:docname="shirt_FreifunkCamp_big_blue.svg"
    inkscape:export-filename="../../Bilder/FreifunkCamp.svg.png"
    inkscape:export-xdpi="230"
    inkscape:export-ydpi="230">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41311318"
-     inkscape:cx="201.28042"
-     inkscape:cy="680.75391"
+     inkscape:cx="329.57456"
+     inkscape:cy="545.19784"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,5 +131,10 @@
            y="1220.6235"
            style="fill:#ffcc33;fill-opacity:1;stroke:#ffffff" /></flowRegion><flowPara
          id="flowPara5906"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffcc33;fill-opacity:1;stroke:#ffffff"> </flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffcc33;fill-opacity:1;stroke:#ffffff"> </flowPara></flowRoot>    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.6189189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -486.94228,1048.8237 c -16.10813,0 -31.55822,6.4666 -42.93308,17.9529 -11.37485,11.4863 -17.75648,27.0543 -17.75648,43.2771 0,16.2228 6.38163,31.7904 17.75648,43.2768 11.37486,11.4865 26.82495,17.953 42.93308,17.953 16.10815,0 31.55823,-6.4665 42.93309,-17.953 11.37484,-11.4864 17.75648,-27.0542 17.75648,-43.277 0,-16.2229 -6.38164,-31.7906 -17.75648,-43.2769 -11.37486,-11.4863 -26.82494,-17.9529 -42.93309,-17.9529 z m 0,11.104 c 13.13859,0 25.73749,5.2658 35.04319,14.6625 9.30568,9.397 14.54229,22.1529 14.54229,35.4635 0,13.3105 -5.23661,26.0662 -14.54229,35.4632 -9.3057,9.3969 -21.9046,14.6626 -35.04319,14.6626 -13.13858,0 -25.73723,-5.2657 -35.04294,-14.6626 -9.30569,-9.397 -14.54229,-22.1527 -14.54229,-35.4632 0,-13.3106 5.2366,-26.0665 14.54229,-35.4635 9.30571,-9.3967 21.90436,-14.6625 35.04294,-14.6625 z"
+       id="ellipse5485"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
