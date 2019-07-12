@@ -33,7 +33,7 @@ verhalten und keine Beschwerden aufkommen. Daher weisen wir an
 dieser Stelle ausdrücklich darauf hin, dass während unserer
 Veranstaltung grundsätzlich nichts getan werden darf, was für
 eine Schule unangemessen wäre. Darunter fällt insbesondere der
-Konsum von Alkohol, Zigaretten und anderen Drogen.
+Konsum von Alkohol, Zigaretten und anderen Drogen *auf* dem Schulgelände.
 
 
  Gelände und Gebäude
@@ -46,7 +46,8 @@ unter der folgenden URL finden: ffbsee.net/map
    
  - HBK-Gebäude:
     Vorträge, große Workshops
-    Hier stattfindende Vorträge werden auf Wunsch aufgezeichnet
+    Hier stattfindende Vorträge werden aufgezeichnet.
+    Hierfür vertrauen wir auf eure Unterstützung als Video Mixer.
  
 
  Zelten und andere Schlafmöglichkeiten
@@ -56,10 +57,13 @@ versucht euer Zelt möglichst so aufzubauen, dass noch genügend
 Platz für andere Zelte bleibt und keine Pflanzen beschädigt
 werden. Im Zweifelsfall einfach vorher mit der Orga absprechen.
 
-Für Wohnmobile steht der Platz [...] zur Verfügung.
+Für Wohnmobile steht der Platz neben dem Gewächshaus zur Verfügung.
+Da dort nur maximal 3 Wohnmobile hin passen müssen die unangemeldeten
+auf dem Parkplatz der Schule stehen.
 
 Solltet ihr einen anderen Schlafplatz benötigen, so könnt ihr
-entweder im Flur des Kindergartens oder im Raum [...] nächtigen.
+entweder im Flur des Kindergartens oder in ehemaligen Wohnungen
+im Obergeschoss der Schule nächtigen.
 
 
  Duschen und Toiletten
@@ -68,31 +72,42 @@ Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
 
  - 2 Toiletten und 1 Dusche im Gartenbaugebäude
  - 2 Toiletten und 1 Dusche im Kindergarten
+ - Dusche und Toiletten bei den ehemaligen Wohnungen im Obergeschoss der Schule
 
- [...]
 
 
  Netzwerk und Chat
 ----------------------------------------------------------------
 Zur Kommunikation via WLAN steht das Netzwerk "Freifunk" zur
-Verfügung, ein Passwort wird nicht benötigt. [...]
+Verfügung, ein Passwort wird nicht benötigt. Selbstverständlich
+gibt es an einigen Orten auch Freifunk aus dem Ethernet Switch.
 
 Um vor, während oder nach der Veranstaltung Informationen mit
 anderen Teilnehmern austauschen zu können wurde ein Matrix-Room
 eingerichtet. Diesen könnt ihr mit einem Matrix-fähigen Client
-unter der Room-ID #camp:matrix.bodensee.space erreichen, z.B.
-mit der App "Riot.im" auf dem Handy oder im Web-Browser unter
-der folgenden URL: bodensee.space/riot
+unter der Room-ID https://matrix.to/#/#camp:matrix.bodensee.space
+erreichen, z.B. mit App wie "Riot.im", "Quaternion" oder "Weechat" auf
+dem Handy, Computer oder im Web-Browser zum Beispiel unter der folgenden URL: 
+https://bodensee.space/riot
 
 
  Vorträge und Workshops
 ----------------------------------------------------------------
-[...]
+Das Vortragsprogramm gibt es hier:
+https://pretalx.ffbsee.de/camp19/schedule/
 
 
- Grillen / Verpflegung
+ Verpflegung, Pizza & Grillen
 ----------------------------------------------------------------
-[...]
+Es wird ein Frühstück geben.
+Außerdem wird Abends gegrillt und/oder Pizza gebacken.
+
+Beim Grillen gibt es für jeden eine Grill-Grundversorgung (zb eine Wurst und ein Fleisch oder Grillkäse).
+Bei der Pizza gibt es so viel Pizza, wie ihr Lust habt gemeinsam zu backen.
+
+Gerne dürft ihr die Küche auch für die verwirklichung eurer eigenen Kochkünste verwenden.
+
+Es stehen auch Waffeleisen bereit.
 
 
  Einkaufsmöglichkeiten
@@ -124,18 +139,23 @@ keiten:
 Bitte denkt vor eurer Anreise daran, evtl. auch Dinge wie
 Steckdosenleisten oder Verlängerungskabel mit einzupacken.
 
+Die Menschen aus der Schweiz sollten besser auch passende Adapter mit sich führen.
+
+Auf dem Technik Camp gibt es keine Gäste. Es gibt Teilnehmer.
+
 [...]
 
 
  Mithilfe / Spenden
 ----------------------------------------------------------------
-Die Teilnahme am Technik-Camp 2019 ist kostenlos. Um eine gelun-
-gene Veranstaltung zu erleben, bitten wir alle Gäste darum, bei
+Die Teilnahme zum Technik-Camp 2019 ist kostenlos. Um eine gelun-
+gene Veranstaltung zu erleben, bitten wir alle Teilnehmer darum, bei
 Dingen wie z.B. Getränkekisten tragen, Feuer machen usw. zur
 Mithilfe bereit zu sein.
 
-Um die Organisation dieser sowie zukünftiger Veranstaltungen zu
-erleichtern, bitten wir euch zudem, das Technik-Camp mit einer
-freiwilligen Spende zu unterstützen.
+Um die Organisation dieser sowie diese und zukünftiger Veranstaltungen zu
+ermöglichen, bitten wir euch zudem, das Technik-Camp mit einer
+Spende von Beispielsweise 42€ (oder 23€) zu unterstützen.
+Dies ermöglicht uns, Infrastruktur bereit zu stellen und Verpflegung zu besorgen.
 
 
