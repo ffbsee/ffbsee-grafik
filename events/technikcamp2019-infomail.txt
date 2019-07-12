@@ -1,0 +1,141 @@
+
+
+            #####  ---o  ###  #   # #   # # #   #
+              #   |     #   # #   # ##  # # #  #
+              #   |---o #     ##### # # # # ###
+              #   |     #   # #   # #  ## # #  #
+              #    ---o  ###  #   # #   # # #   #
+
+             ###     /\    #     # ####
+            #   #   /  \   ##   ## #   #
+            #      / /\ \  # # # # ####
+            #   # / /  \ \ #  #  # #
+             ###  -------- #     # #      2 0 1 9
+
+
+
+                        === README ===
+
+
+
+ Willkommen beim Technik-Camp 2019
+----------------------------------------------------------------
+Im folgenden Text findet ihr einige wichtige und nützliche
+Hinweise zur Teilnahme am Technik-Camp 2019. Wir bitten darum,
+diese aufmerksam durchzulesen.
+
+
+ Hausordnung
+----------------------------------------------------------------
+Das Technik-Camp findet auf einem Schulgelände statt. Trotz
+Ferienzeit ist es sehr wichtig, dass wir uns hier angemessen
+verhalten und keine Beschwerden aufkommen. Daher weisen wir an
+dieser Stelle ausdrücklich darauf hin, dass während unserer
+Veranstaltung grundsätzlich nichts getan werden darf, was für
+eine Schule unangemessen wäre. Darunter fällt insbesondere der
+Konsum von Alkohol, Zigaretten und anderen Drogen.
+
+
+ Gelände und Gebäude
+----------------------------------------------------------------
+Eine Karte des Geländes inkl. Beschreibung der Gebäude könnt ihr
+unter der folgenden URL finden: ffbsee.net/map
+
+ - Gartenbaugebäude:
+    Hackcenter, kleine Workshops
+   
+ - HBK-Gebäude:
+    Vorträge, große Workshops
+    Hier stattfindende Vorträge werden auf Wunsch aufgezeichnet
+ 
+
+ Zelten und andere Schlafmöglichkeiten
+----------------------------------------------------------------
+Ihr habt auf dem Zeltgelände prinzipiell freie Platzwahl. Bitte
+versucht euer Zelt möglichst so aufzubauen, dass noch genügend
+Platz für andere Zelte bleibt und keine Pflanzen beschädigt
+werden. Im Zweifelsfall einfach vorher mit der Orga absprechen.
+
+Für Wohnmobile steht der Platz [...] zur Verfügung.
+
+Solltet ihr einen anderen Schlafplatz benötigen, so könnt ihr
+entweder im Flur des Kindergartens oder im Raum [...] nächtigen.
+
+
+ Duschen und Toiletten
+----------------------------------------------------------------
+Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
+
+ - 2 Toiletten und 1 Dusche im Gartenbaugebäude
+ - 2 Toiletten und 1 Dusche im Kindergarten
+
+ [...]
+
+
+ Netzwerk und Chat
+----------------------------------------------------------------
+Zur Kommunikation via WLAN steht das Netzwerk "Freifunk" zur
+Verfügung, ein Passwort wird nicht benötigt. [...]
+
+Um vor, während oder nach der Veranstaltung Informationen mit
+anderen Teilnehmern austauschen zu können wurde ein Matrix-Room
+eingerichtet. Diesen könnt ihr mit einem Matrix-fähigen Client
+unter der Room-ID #camp:matrix.bodensee.space erreichen, z.B.
+mit der App "Riot.im" auf dem Handy oder im Web-Browser unter
+der folgenden URL: bodensee.space/riot
+
+
+ Vorträge und Workshops
+----------------------------------------------------------------
+[...]
+
+
+ Grillen / Verpflegung
+----------------------------------------------------------------
+[...]
+
+
+ Einkaufsmöglichkeiten
+----------------------------------------------------------------
+In der näheren Umgebung gibt es die folgenden Einkaufsmöglich-
+keiten:
+
+ - Hofladen
+    werktags: 9:00 - 18:30, Samstags: 8:00 - 12:30
+    Entfernung: 200 m
+    Achtung: Überquerung einer Hauptstraße erforderlich
+    rengo.de/hofladen-hofcafe
+    
+ - Naturata (Bio-Laden)
+    werktags und Samstags: [...]
+    Entfernung: 400 m
+    
+ - Aldi-Süd
+    werktags und Samstags: 8:00 - 20:00
+    Entfernung: 1 km
+    
+ - Edeka E-Center
+    werktags und Samstags: 8:00 - 22:00
+    Entfernung: 1.3 km
+
+
+ Nicht vergessen
+----------------------------------------------------------------
+Bitte denkt vor eurer Anreise daran, evtl. auch Dinge wie
+Steckdosenleisten oder Verlängerungskabel mit einzupacken.
+
+[...]
+
+
+ Mithilfe / Spenden
+----------------------------------------------------------------
+Die Teilnahme am Technik-Camp 2019 ist kostenlos. Um eine gelun-
+gene Veranstaltung zu erleben, bitten wir alle Gäste darum, bei
+Dingen wie z.B. Getränkekisten tragen, Feuer machen usw. zur
+Mithilfe bereit zu sein.
+
+Um die Organisation dieser sowie zukünftiger Veranstaltungen zu
+erleichtern, bitten wir euch zudem, das Technik-Camp mit einer
+freiwilligen Spende zu unterstützen.
+
+
