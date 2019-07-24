@@ -52,8 +52,10 @@ unter der folgenden URL finden: https://ffbsee.net/map/
    
  - HBK-Gebäude:
     Vorträge, große Workshops
-    Hier stattfindende Vorträge werden aufgezeichnet.
-    Hierfür vertrauen wir auf eure Unterstützung als Video-Mixer.
+    Hier stattfindende Vorträge werden aufgezeichnet und
+    vorraussichtlich auf streaming.media.ccc.de live übertragen.
+    Hierfür vertrauen wir auf eure Unterstützung als Video-Mixer
+    und Kamera Mensch.
  
 
  ZELTEN UND ANDERE SCHLAFMÖGLICHKEITEN
@@ -79,6 +81,7 @@ Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
 
  - 2 Toiletten und 1 Dusche im Gartenbaugebäude
  - 2 Toiletten und 1 Dusche im Kindergarten
+ - Toiletten im HBK Gebäude
  - Dusche und Toiletten bei den ehemaligen Wohnungen im Ober-
    geschoss der Schule
 
@@ -94,8 +97,8 @@ anderen Teilnehmern austauschen zu können wurde ein Matrix-Room
 eingerichtet. Diesen könnt ihr mit einem Matrix-fähigen Client
 unter der Room-ID https://matrix.to/#/#camp:matrix.bodensee.space
 erreichen, z.B. mit Apps wie "Riot.im", "Quaternion", "Weechat"
-oder im Web-Browser unter der folgenden URL: 
-https://bodensee.space/riot
+oder im Web-Browser beispielsweise unter der folgenden URL: 
+https://bodensee.space/riot/
 
 
  VORTRÄGE UND WORKSHOPS
