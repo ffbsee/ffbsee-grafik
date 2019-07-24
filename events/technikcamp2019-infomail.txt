@@ -40,7 +40,7 @@ Schulgelände.
  GELÄNDE UND GEBÄUDE
 ----------------------------------------------------------------
 Eine Karte des Geländes inkl. Beschreibung der Gebäude könnt ihr
-unter der folgenden URL finden: ffbsee.net/map
+unter der folgenden URL finden: https://ffbsee.net/map/
 
  - Gartenbaugebäude:
     Hackcenter, kleine Workshops
