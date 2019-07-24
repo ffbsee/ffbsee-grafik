@@ -18,14 +18,14 @@
 
 
 
- Willkommen beim Technik-Camp 2019
+ WILLKOMMEN BEIM TECHNIK-CAMP 2019
 ----------------------------------------------------------------
 Im folgenden Text findet ihr einige wichtige und nützliche
 Hinweise zur Teilnahme am Technik-Camp 2019. Wir bitten darum,
 diese aufmerksam durchzulesen.
 
 
- Hausordnung
+ HAUSORDNUNG
 ----------------------------------------------------------------
 Das Technik-Camp findet auf einem Schulgelände statt. Trotz
 Ferienzeit ist es sehr wichtig, dass wir uns hier angemessen
@@ -33,10 +33,11 @@ verhalten und keine Beschwerden aufkommen. Daher weisen wir an
 dieser Stelle ausdrücklich darauf hin, dass während unserer
 Veranstaltung grundsätzlich nichts getan werden darf, was für
 eine Schule unangemessen wäre. Darunter fällt insbesondere der
-Konsum von Alkohol, Zigaretten und anderen Drogen *auf* dem Schulgelände.
+Konsum von Alkohol, Zigaretten und anderen Drogen *auf* dem
+Schulgelände.
 
 
- Gelände und Gebäude
+ GELÄNDE UND GEBÄUDE
 ----------------------------------------------------------------
 Eine Karte des Geländes inkl. Beschreibung der Gebäude könnt ihr
 unter der folgenden URL finden: ffbsee.net/map
@@ -47,36 +48,37 @@ unter der folgenden URL finden: ffbsee.net/map
  - HBK-Gebäude:
     Vorträge, große Workshops
     Hier stattfindende Vorträge werden aufgezeichnet.
-    Hierfür vertrauen wir auf eure Unterstützung als Video Mixer.
+    Hierfür vertrauen wir auf eure Unterstützung als Video-Mixer.
  
 
- Zelten und andere Schlafmöglichkeiten
+ ZELTEN UND ANDERE SCHLAFMÖGLICHKEITEN
 ----------------------------------------------------------------
 Ihr habt auf dem Zeltgelände prinzipiell freie Platzwahl. Bitte
 versucht euer Zelt möglichst so aufzubauen, dass noch genügend
 Platz für andere Zelte bleibt und keine Pflanzen beschädigt
 werden. Im Zweifelsfall einfach vorher mit der Orga absprechen.
 
-Für Wohnmobile steht der Platz neben dem Gewächshaus zur Verfügung.
-Da dort nur maximal 3 Wohnmobile hin passen müssen die unangemeldeten
-auf dem Parkplatz der Schule stehen.
+Für Wohnmobile steht der Platz neben dem Gewächshaus zur Ver-
+fügung. Da dort nur maximal 3 Wohnmobile hinpassen, müssen die
+unangemeldeten auf dem Parkplatz der Schule stehen.
 
 Solltet ihr einen anderen Schlafplatz benötigen, so könnt ihr
 entweder im Flur des Kindergartens oder in ehemaligen Wohnungen
 im Obergeschoss der Schule nächtigen.
 
 
- Duschen und Toiletten
+ DUSCHEN UND TOILETTEN
 ----------------------------------------------------------------
 Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
 
  - 2 Toiletten und 1 Dusche im Gartenbaugebäude
  - 2 Toiletten und 1 Dusche im Kindergarten
- - Dusche und Toiletten bei den ehemaligen Wohnungen im Obergeschoss der Schule
+ - Dusche und Toiletten bei den ehemaligen Wohnungen im Ober-
+   geschoss der Schule
 
 
 
- Netzwerk und Chat
+ NETZWERK UND CHAT
 ----------------------------------------------------------------
 Zur Kommunikation via WLAN steht das Netzwerk "Freifunk" zur
 Verfügung, ein Passwort wird nicht benötigt. Selbstverständlich
@@ -86,76 +88,80 @@ Um vor, während oder nach der Veranstaltung Informationen mit
 anderen Teilnehmern austauschen zu können wurde ein Matrix-Room
 eingerichtet. Diesen könnt ihr mit einem Matrix-fähigen Client
 unter der Room-ID https://matrix.to/#/#camp:matrix.bodensee.space
-erreichen, z.B. mit App wie "Riot.im", "Quaternion" oder "Weechat" auf
-dem Handy, Computer oder im Web-Browser zum Beispiel unter der folgenden URL: 
+erreichen, z.B. mit Apps wie "Riot.im", "Quaternion", "Weechat"
+oder im Web-Browser unter der folgenden URL: 
 https://bodensee.space/riot
 
 
- Vorträge und Workshops
+ VORTRÄGE UND WORKSHOPS
 ----------------------------------------------------------------
 Das Vortragsprogramm gibt es hier:
 https://pretalx.ffbsee.de/camp19/schedule/
 
 
- Verpflegung, Pizza & Grillen
+ VERPFLEGUNG, PIZZA & GRILLEN
 ----------------------------------------------------------------
-Es wird ein Frühstück geben.
-Außerdem wird Abends gegrillt und/oder Pizza gebacken.
+Es wird ein Frühstück geben. Außerdem wird Abends gegrillt
+und/oder Pizza gebacken.
 
-Beim Grillen gibt es für jeden eine Grill-Grundversorgung (zb eine Wurst und ein Fleisch oder Grillkäse).
-Bei der Pizza gibt es so viel Pizza, wie ihr Lust habt gemeinsam zu backen.
+Beim Grillen gibt es für jeden eine Grill-Grundversorgung (z.B.
+eine Wurst und ein Fleisch oder Grillkäse). Bei der Pizza gibt es
+so viel Pizza, wie ihr Lust habt gemeinsam zu backen.
 
-Gerne dürft ihr die Küche auch für die verwirklichung eurer eigenen Kochkünste verwenden.
+Gerne dürft ihr die Küche auch für die Verwirklichung eurer
+eigenen Kochkünste verwenden.
 
 Es stehen auch Waffeleisen bereit.
 
 
- Einkaufsmöglichkeiten
+ EINKAUFSMÖGLICHKEITEN
 ----------------------------------------------------------------
 In der näheren Umgebung gibt es die folgenden Einkaufsmöglich-
 keiten:
 
  - Hofladen
-    werktags: 9:00 - 18:30, Samstags: 8:00 - 12:30
+    werktags: 9:00 - 18:30, samstags: 8:00 - 12:30
     Entfernung: 200 m
     Achtung: Überquerung einer Hauptstraße erforderlich
     rengo.de/hofladen-hofcafe
     
  - Naturata (Bio-Laden)
-    werktags und Samstags: [...]
+    werktags und samstags: [...]
     Entfernung: 400 m
     
  - Aldi-Süd
-    werktags und Samstags: 8:00 - 20:00
+    werktags und samstags: 8:00 - 20:00
     Entfernung: 1 km
     
  - Edeka E-Center
-    werktags und Samstags: 8:00 - 22:00
+    werktags und samstags: 8:00 - 22:00
     Entfernung: 1.3 km
 
 
- Nicht vergessen
+ NICHT VERGESSEN
 ----------------------------------------------------------------
 Bitte denkt vor eurer Anreise daran, evtl. auch Dinge wie
 Steckdosenleisten oder Verlängerungskabel mit einzupacken.
 
-Die Menschen aus der Schweiz sollten besser auch passende Adapter mit sich führen.
+Menschen aus der Schweiz sollten besser auch passende Strom-
+adapter mit sich führen.
 
-Auf dem Technik Camp gibt es keine Gäste. Es gibt Teilnehmer.
+Auf dem Technik-Camp gibt es keine Gäste. Es gibt Teilnehmer.
 
 [...]
 
 
- Mithilfe / Spenden
+ MITHILFE / SPENDEN
 ----------------------------------------------------------------
 Die Teilnahme zum Technik-Camp 2019 ist kostenlos. Um eine gelun-
-gene Veranstaltung zu erleben, bitten wir alle Teilnehmer darum, bei
-Dingen wie z.B. Getränkekisten tragen, Feuer machen usw. zur
+gene Veranstaltung zu erleben, bitten wir alle Teilnehmer darum,
+bei Dingen wie z.B. Getränkekisten tragen, Feuer machen usw. zur
 Mithilfe bereit zu sein.
 
-Um die Organisation dieser sowie diese und zukünftiger Veranstaltungen zu
+Um die Organisation dieser sowie zukünftiger Veranstaltungen zu
 ermöglichen, bitten wir euch zudem, das Technik-Camp mit einer
-Spende von Beispielsweise 42€ (oder 23€) zu unterstützen.
-Dies ermöglicht uns, Infrastruktur bereit zu stellen und Verpflegung zu besorgen.
+Spende von beispielsweise 42€ (oder 23€) zu unterstützen.
+Dies ermöglicht uns, Infrastruktur bereitzustellen und Ver-
+pflegung zu besorgen.
 
 
