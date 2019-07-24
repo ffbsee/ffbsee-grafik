@@ -103,6 +103,11 @@ https://bodensee.space/riot
 Das Vortragsprogramm gibt es hier:
 https://pretalx.ffbsee.de/camp19/schedule/
 
+Apps wie "Giggity" ermöglichen es sehr gut, den Fahrplan auf dem
+Handy anzuschauen. Die Schedule-URL für die Giggity-App lautet:
+https://pretalx.ffbsee.de/camp19/schedule/export/schedule.xml
+
+
 
  VERPFLEGUNG, PIZZA & GRILLEN
 ----------------------------------------------------------------
