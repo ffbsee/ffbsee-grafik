@@ -1,5 +1,20 @@
- WILLKOMMEN BEIM TECHNIK-CAMP 2019
+
+WILLKOMMEN BEIM TECHNIK-CAMP 2019
 ----------------------------------------------------------------
+
+       #####  ---O  ###  #   # #   # # #   #
+         #   |     #   # #   # ##  # # #  #
+         #   |---o #     ##### # # # # ###
+         #   |     #   # #   # #  ## # #  #
+         #    ---o  ###  #   # #   # # #   #
+
+        ###     /\    #     # ####
+       #   #   /  \   ##   ## #   #
+       #      / /\ \  # # # # ####
+       #   # / /  \ \ #  #  # #
+        ###  -------- #     # #      2 0 1 9
+
+ 
 In wenigen Tagen ist es soweit - das Technik-Camp 2019 beginnt!
 Im folgenden Text findet ihr einige wichtige und nützliche
 Hinweise zur Teilnahme.  {invoice_name}, wir bitten darum, diese
