@@ -1,33 +1,14 @@
-
-
-            #####  ---o  ###  #   # #   # # #   #
-              #   |     #   # #   # ##  # # #  #
-              #   |---o #     ##### # # # # ###
-              #   |     #   # #   # #  ## # #  #
-              #    ---o  ###  #   # #   # # #   #
-
-             ###     /\    #     # ####
-            #   #   /  \   ##   ## #   #
-            #      / /\ \  # # # # ####
-            #   # / /  \ \ #  #  # #
-             ###  -------- #     # #      2 0 1 9
-
-
-
-                        === README ===
-
-
-
  WILLKOMMEN BEIM TECHNIK-CAMP 2019
 ----------------------------------------------------------------
 In wenigen Tagen ist es soweit - das Technik-Camp 2019 beginnt!
 Im folgenden Text findet ihr einige wichtige und nützliche
-Hinweise zur Teilnahme. Wir bitten darum, diese aufmerksam
-durchzulesen.
+Hinweise zur Teilnahme.  {invoice_name}, wir bitten darum, diese
+aufmerksam durchzulesen.
 
-Datum: 1.-4. August 2019
-Ort: Campus der Waldorfschule Überlingen
-Adresse: Rengoldshauser Str. 20, 88662 Überlingen
+
+-  Datum: 1.-4. August 2019
+-  Ort: Campus der Waldorfschule Überlingen
+-  Adresse: Rengoldshauser Str. 20, 88662 Überlingen
 
 
  HAUSORDNUNG
@@ -134,23 +115,23 @@ In der näheren Umgebung gibt es die folgenden Einkaufsmöglich-
 keiten:
 
  - Hofladen
-    werktags: 9:00 - 18:30, samstags: 8:00 - 12:30
-    Entfernung: 200 m
-    Achtung: Überquerung einer Hauptstraße erforderlich
-    http://www.rengo.de/hofladen-hofcafe/
+     + werktags: 9:00 - 18:30, samstags: 8:00 - 12:30
+     + Entfernung: 200 m
+     + Achtung: Überquerung einer Hauptstraße erforderlich
+     + http://www.rengo.de/hofladen-hofcafe/
     
  - Naturata (Bio-Laden)
-    täglich: 8:00 - 20:00
-    Entfernung: 400 m
-    https://www.naturata-gmbh.de/laden/
+     + täglich: 8:00 - 20:00
+     + Entfernung: 400 m
+     + https://www.naturata-gmbh.de/laden/
     
  - Aldi-Süd
-    werktags und samstags: 8:00 - 20:00
-    Entfernung: 1 km
-    
+     + werktags und samstags: 8:00 - 20:00
+     + Entfernung: 1 km
+      
  - Edeka E-Center
-    werktags und samstags: 8:00 - 22:00
-    Entfernung: 1.3 km
+     + werktags und samstags: 8:00 - 22:00
+     + Entfernung: 1.3 km
 
 
  NICHT VERGESSEN
