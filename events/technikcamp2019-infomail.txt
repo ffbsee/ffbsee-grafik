@@ -20,7 +20,7 @@
 
  WILLKOMMEN BEIM TECHNIK-CAMP 2019
 ----------------------------------------------------------------
-In wenigen Tagen ist es soweit - das Technik-Camp 2019 beginnt.
+In wenigen Tagen ist es soweit - das Technik-Camp 2019 beginnt!
 Im folgenden Text findet ihr einige wichtige und nützliche
 Hinweise zur Teilnahme. Wir bitten darum, diese aufmerksam
 durchzulesen.
@@ -55,7 +55,7 @@ unter der folgenden URL finden: https://ffbsee.net/map/
     Hier stattfindende Vorträge werden aufgezeichnet und
     vorraussichtlich auf streaming.media.ccc.de live übertragen.
     Hierfür vertrauen wir auf eure Unterstützung als Video-Mixer
-    und Kamera Mensch.
+    und Kamera-Mensch.
  
 
  ZELTEN UND ANDERE SCHLAFMÖGLICHKEITEN
@@ -81,7 +81,7 @@ Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
 
  - 2 Toiletten und 1 Dusche im Gartenbaugebäude
  - 2 Toiletten und 1 Dusche im Kindergarten
- - Toiletten im HBK Gebäude
+ - Toiletten im HBK-Gebäude
  - Dusche und Toiletten bei den ehemaligen Wohnungen im Ober-
    geschoss der Schule
 
@@ -90,7 +90,7 @@ Euch stehen die folgenden sanitären Einrichtungen zur Verfügung:
 ----------------------------------------------------------------
 Zur Kommunikation via WLAN steht das Netzwerk "Freifunk" zur
 Verfügung, ein Passwort wird nicht benötigt. Selbstverständlich
-gibt es an einigen Orten auch Freifunk aus dem Ethernet Switch.
+gibt es an einigen Orten auch Freifunk aus dem Ethernet-Switch.
 
 Um vor, während oder nach der Veranstaltung Informationen mit
 anderen Teilnehmern austauschen zu können wurde ein Matrix-Room
@@ -111,10 +111,9 @@ Handy anzuschauen. Die Schedule-URL für die Giggity-App lautet:
 https://pretalx.ffbsee.de/camp19/schedule/export/schedule.xml
 
 
-
  VERPFLEGUNG, PIZZA & GRILLEN
 ----------------------------------------------------------------
-Es wird ein Frühstück geben. Außerdem wird Abends gegrillt
+Es wird ein Frühstück geben. Außerdem wird abends gegrillt
 und/oder Pizza gebacken.
 
 Beim Grillen gibt es für jeden eine Grill-Grundversorgung (z.B.
@@ -138,11 +137,12 @@ keiten:
     werktags: 9:00 - 18:30, samstags: 8:00 - 12:30
     Entfernung: 200 m
     Achtung: Überquerung einer Hauptstraße erforderlich
-    rengo.de/hofladen-hofcafe
+    http://www.rengo.de/hofladen-hofcafe/
     
  - Naturata (Bio-Laden)
     täglich: 8:00 - 20:00
     Entfernung: 400 m
+    https://www.naturata-gmbh.de/laden/
     
  - Aldi-Süd
     werktags und samstags: 8:00 - 20:00
@@ -156,13 +156,14 @@ keiten:
  NICHT VERGESSEN
 ----------------------------------------------------------------
 Bitte denkt vor eurer Anreise daran, evtl. auch Dinge wie
-Steckdosenleisten oder Verlängerungskabel mit einzupacken.
+Steckdosenleisten oder Verlängerungskabel mit einzupacken. Auch
+kann es evtl. nicht schaden, diese vorab zu beschriften.
 
 Menschen aus der Schweiz sollten besser auch passende Strom-
 adapter mit sich führen.
 
-Kulinarische Spezialitäten von eurer Heimat sind natürlich
-stets Wilkommen.
+Kulinarische Spezialitäten aus eurer Heimat sind natürlich
+stets willkommen.
 
 
 
